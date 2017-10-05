@@ -1,4 +1,4 @@
-# bootstrap
+# Project Safegaurds - Bootstrap Phase
 Bootstrap effort to define Project Safeguards
 
 # Purpose
