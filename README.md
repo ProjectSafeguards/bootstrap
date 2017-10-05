@@ -1,4 +1,4 @@
-# Project Safegaurds - Bootstrap Phase
+# Project Safeguards - Bootstrap Phase
 Bootstrap effort to define Project Safeguards
 
 ## Goal
